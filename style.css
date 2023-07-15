@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    width: 400px;
+    margin: auto;
+    height: auto;
+    /* background-color: black; */
+    padding: 15px;
+}
+input[type=text]{
+    width: 100%;
+    padding: 10px;
+    font-size: 22px;
+    font-weight:bold;
+    border-radius: 5px;
+    background-color: rgba(198, 174, 220, 0.8);
+    }
+input[type=button]{
+    width: 89px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    border-radius: 5px;
+    
+}
+.button:hover{
+    cursor: pointer;
+    background-color:rgb(161, 108, 118);
+
+}
+.border{
+   border: double black 5px;
+   width: fit-content;
+   background-color:cornsilk;
+   border-radius: 5px;
+}
+   
